@@ -27,3 +27,16 @@ React is a popular option for contemporary online apps because of its declarativ
 - Facebook (now Meta) was the original developer of React, which is utilized in many of their products.
 - Using the same concepts as React, React Native enables you to create mobile applications.
 - For creating intricate web user interfaces and single-page applications (SPAs), React is a popular option.
+
+---
+
+## Step by Step on how to Setup React JS
+
+1. **Install Node.js**
+   -  Download and install Node.js from the official website. It comes with npm [Node.js website](https://nodejsorg/).
+2. **Create a React App**
+   - Use the Create React App tool to quickly set up a new React project.
+3. **Navigate to the Project Directory**
+4. **Start the Development Server**
+
+#### Congratulations! You've successfully set up React JS. You can now start building your own web applications.
