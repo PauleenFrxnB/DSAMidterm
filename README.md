@@ -33,7 +33,7 @@ React is a popular option for contemporary online apps because of its declarativ
 ## Step by Step on how to Setup React JS
 
 1. **Install Node.js**
-   -  Download and install Node.js from the official website. It comes with npm [Node.js website](https://nodejsorg/).
+   -  Download and install Node.js from the official website. It comes with npm [Node.js website](https://nodejs.org/en).
 2. **Create a React App**
    - Use the Create React App tool to quickly set up a new React project.
 3. **Navigate to the Project Directory**
