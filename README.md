@@ -39,4 +39,4 @@ React is a popular option for contemporary online apps because of its declarativ
 3. **Navigate to the Project Directory**
 4. **Start the Development Server**
 
-#### Congratulations! You've successfully set up React JS. You can now start building your own web applications.
+#### Congratulations! You've successfully set up React JS. 
